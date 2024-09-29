@@ -1,0 +1,18 @@
+
+.admin_header {
+	background-color: lightblue;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10px;
+}
+.admin_header h1 {
+	color: #fff;
+	padding: 15px;
+}
+.sidebar {
+	background-color: lightgrey;
+}
+.sidebar td {
+	padding: 20px 10px;
+}
